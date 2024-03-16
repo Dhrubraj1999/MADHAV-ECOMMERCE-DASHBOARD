@@ -1,4 +1,4 @@
-# MADHAV-ECOMMERCE-DASHBOARD
+# POWER-BI-DASHBOARD (MADHAV-ECOMMERCE)
 POWER BI DASHBOARD PROJECT 
 
 Interactive dashboard to track and analyze online sales data.
